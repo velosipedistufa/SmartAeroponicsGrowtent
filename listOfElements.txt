@@ -1,0 +1,7 @@
+Luminosity: VEML7700
+Humidity + Temp + Rh: SDC30
+Humiidity root chamber - sht85
+pH + EC meters: DFRobot Gravity
+Pump: Luminico LM
+Nozzles: 8 Bar, 0.3 mm, 1/4 thread
+Camera PI OV5647
