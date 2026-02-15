@@ -6,3 +6,6 @@ Pump: Luminico LM
 Nozzles: 8 Bar, 0.3 mm, 1/4 thread
 Camera PI OV5647
 TFT Display
+atmospheric pressure sensor?
+ionistors
+Pipes, adapters
